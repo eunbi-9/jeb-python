@@ -1,1 +1,1 @@
-# JEB_Python
+# jeb-python
